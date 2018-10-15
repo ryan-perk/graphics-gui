@@ -5,5 +5,5 @@ or an input file, translate them, scale them around the origin or a specific poi
 rotate them around the origin or a specific point. The line data can then be exported to 
 a .txt file for later use. 
 
-complie in Mac termial: javac LineTransformin.java
+complie in Mac termial: javac LineTransformin.java\n
 run in Mac termial: java LineTransformin
