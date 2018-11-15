@@ -1,4 +1,4 @@
-# graphics_gui
+# graphics-gui
 
 LineTransformin.java is a basic computer graphics GUI that can draw lines from user input 
 or an input file, translate them, scale them around the origin or a specific point, and 
